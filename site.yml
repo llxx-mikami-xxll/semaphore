@@ -1,0 +1,6 @@
+---
+- host: all
+  become: no
+  tasls:
+    - name: echo
+      shell: echo hello
