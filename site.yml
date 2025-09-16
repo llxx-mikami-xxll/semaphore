@@ -4,7 +4,9 @@
   tasks:
     - name: echo
       shell: echo hello
+      
     - name: echo
       shell: echo hello
+      
     - name: echo
       shell: echo hello
